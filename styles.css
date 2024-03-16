@@ -82,10 +82,12 @@ body {
 
 ul {
   list-style-type: none;
+
 }
 
 a {
   text-decoration: none;
+
 }
 
 img:not(.logo) {
@@ -250,6 +252,7 @@ nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
+
 }
 
 .nav-toggle {
@@ -313,7 +316,7 @@ nav {
 
 
 .logo {
-  height: 50px;
+  height: 40px;
 }
 
 .links-container {
